@@ -12,3 +12,5 @@
     }
     preloader();
 setInterval(() => prelaoder(), 5000);
+
+// **********

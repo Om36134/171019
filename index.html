@@ -5,10 +5,17 @@
     <meta name="viewport"
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <!--<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">-->
     <title>Document</title>
     <link rel="stylesheet" href="style/index.css">
+    <!--<link rel="stylesheet" href="style/preloader.css">-->
+    <link href="https://fonts.googleapis.com/css?family=Fascinate+Inline&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Fascinate+Inline|Raleway&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/anim.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <!--<link href="//netdna.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">-->
 </head>
-<body class="view-bg">
+<body>
 <div class="preloader">
     <div class="preloader-content">
         <div class="preloader-first"></div>
@@ -16,29 +23,100 @@
         <div class="preloader-third"></div>
     </div>
 </div>
-<header>
-    <!--<video src="img/nebula.mp4" autoplay="autoplay" loop="loop" muted="muted"></video>-->
 
-
-    <nav>
-        <div class="burger-menu">
-            <a href="#" class="burger-menu-button">
-                <span class="burger-menu-lines"></span>
-            </a>
+<header class="view-bg">
+    <div class="container">
+        <div class="fullscreen-bg">
+            <video loop muted autoplay poster="video/plane.jpg" class="fullscreen-bg__video">
+                <source src="img/nebula.mp4" type="video/mp4">
+                <source src="video/plane.webm" type="video/webm">
+            </video>
         </div>
-    </nav>
-    <section class="main">
-        <video id="vid" playsinline="" autoplay="autoplay" muted="muted" loop="loop" preload="auto" poster="">
-        <source src="img/nebula.mp4" type="video/mp4">
-        </video>
-        <div class="left-menu"></div>
-        <div class="collaps"></div>
-        <div class="right-menu">
-
-        </div>
-    </section>
+        <section class="main">
+            <div class="left-menu"></div>
+            <div class="collaps">
+                <nav>
+                    <div class="nav-toggle"><span></span></div>
+                    <p class="nav-toggle-p">
+                        OK-SANA
+                    </p>
+                </nav>
+                <h1 class="header-h1">
+                    The most important thing in work is to love what you do!
+                </h1>
+                <p class="text-typing ">Welcome to my space</p>
+            </div>
+            <div class="right-menu"></div>
+        </section>
+    </div>
 </header>
 
+<section class="first">
+    <div class="container">
+        <h1 class="about__h1">ABOUT</h1>
+        <p class="about__txt">
+
+            I'm Natalie, a web designer and developer.
+            I specialize in the development of WordPress, HTML5, CSS3, Java Script sites.
+            I can easily create a website of any complexity, add a lot of interesting and cool things (animation,
+            slider, gallery, Hover Effects for the menu). The websites that I develop are responsive and also have basic
+            SEO optimization.
+
+        </p>
+
+        <p class="about__txt">
+
+            Before deadline the project, I check the code for validity.
+            My customers are always happy with the result.
+
+        </p>
+    </div>
+</section>
+
+<section class="works">
+    <div class="container">
+        <h1 class="work__txt">
+            works
+        </h1>
+        <h2 class="works__txt2">pro skatepark</h2>
+        <p class="works__p">
+            Landing Page<br/>
+            Technologies: HTML5, CSS3, Java Script, jQuery, Bootstrap.
+        </p>
+        <div class="work-btn">
+            <a href="#" class="btn work-btn">
+                go to website
+            </a>
+        </div>
+    </div>
+</section>
+
+<section class="contacts">
+    <div class="container">
+        <h1 class="work__txt">
+            contacts
+        </h1>
+        <h2 class="works__txt2">Frontend Developer</h2>
+        <p>
+            <i class="fa fa-envelope-open-o" aria-hidden="true"></i>
+            <img src="" alt="">
+            <span> om36134@gmail.com</span>
+        </p>
+        <p>
+
+            <i class="fa fa-paper-plane" aria-hidden="true"></i>
+            <img src="" alt="">
+            <span>066-043-99-98</span>
+        </p>
+    </div>
+</section>
+
+
+
+
+<!--<script src="//netdna.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>-->
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 <script src=" https://code.jquery.com/jquery-3.3.1.min.js"></script>
 <script type="text/javascript" src="js/index.js"></script>
 </body>
