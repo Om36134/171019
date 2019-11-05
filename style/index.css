@@ -363,14 +363,21 @@ section {
 /*окончание флекс+транзишн*/
 
 .revealator-slideright,
-.revealator-slideup{
+.revealator-slideup,
+.revealator-slideleft{
     transition: all 6s;
 }
 
-.revealator-slideright {
+.revealator-slideright{
     transform: translate(-100px, 0);
     opacity: 0;
 }
+
+.revealator-slideleft {
+    transform: translate(100px, 0);
+    opacity: 0;
+}
+
 
 .revealator-slideright.revealator-within,
 .revealator-slideright.revealator-partially-above,
@@ -386,6 +393,13 @@ section {
 .revealator-slideup.revealator-within,
 .revealator-slideup.revealator-partially-above,
 .revealator-slideup.revealator-above {
+    transform: translate(0, 0);
+    opacity: 1;
+}
+
+.revealator-slideleft.revealator-within,
+.revealator-slideleft.revealator-partially-above,
+.revealator-slideleft.revealator-above {
     transform: translate(0, 0);
     opacity: 1;
 }
