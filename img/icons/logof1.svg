@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="52px" height="38px" viewBox="0 0 52 38" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>logo@2x</title>
+    <desc>Created with Sketch.</desc>
+    <g id="pages" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="EXTL-about-us" transform="translate(-112.000000, -4182.000000)">
+            <g id="footer" transform="translate(0.000000, 4117.000000)">
+                <g id="logo" transform="translate(138.000000, 84.000000) rotate(90.000000) translate(-138.000000, -84.000000) translate(119.000000, 58.000000)">
+                    <path d="M15,0 L16,0 L16,30 L15,30 C6.71572875,30 -4.16180335e-14,23.2842712 -4.26325641e-14,15 C-4.36470948e-14,6.71572875 6.71572875,1.52179594e-15 15,0 Z M29,0 C32.8659932,-1.59834986e-15 36,3.13400675 36,7 C36,10.8659932 32.8659932,14 29,14 C25.1340068,14 22,10.8659932 22,7 C22,3.13400675 25.1340068,-1.78006981e-16 29,-8.8817842e-16 Z" id="Rectangle-2" fill="#FFFFFF"></path>
+                    <path d="M9,38 C12.8659932,38 16,41.1340068 16,45 C16,48.8659932 12.8659932,52 9,52 C5.13400675,52 2,48.8659932 2,45 C2,41.1340068 5.13400675,38 9,38 Z M23,22 C31.2842712,22 38,28.7157288 38,37 C38,45.2842712 31.2842712,52 23,52 L22,52 L22,22 L23,22 Z" id="Rectangle-Copy-17" fill="#303035"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

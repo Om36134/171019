@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="320px" height="248px" viewBox="0 0 320 248" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55 (78076) - https://sketchapp.com -->
+    <title>illustration</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="86.8191272%" y1="72.2906065%" x2="12.0671936%" y2="30.4359047%" id="linearGradient-1">
+            <stop stop-color="#FF4A15" offset="0%"></stop>
+            <stop stop-color="#FFA400" offset="57.2162625%"></stop>
+            <stop stop-color="#68BD34" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-1.7%" y="-3.1%" width="103.4%" height="106.1%" filterUnits="objectBoundingBox" id="filter-2">
+            <feGaussianBlur stdDeviation="1.68300015" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <rect id="path-3" x="0" y="0" width="90.3210081" height="44.319004" rx="2.2440002"></rect>
+        <filter x="-14.9%" y="-23.7%" width="129.9%" height="160.9%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="3" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.523968963   0 0 0 0 0.523968963   0 0 0 0 0.523968963  0 0 0 0.115800498 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-5" x="0" y="0" width="127.908011" height="44.319004" rx="2.2440002"></rect>
+        <filter x="-10.6%" y="-23.7%" width="121.1%" height="160.9%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="0" dy="3" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.523968963   0 0 0 0 0.523968963   0 0 0 0 0.523968963  0 0 0 0.115800498 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-7" x="0" y="0" width="90.3210081" height="44.319004" rx="2.2440002"></rect>
+        <filter x="-14.9%" y="-23.7%" width="129.9%" height="160.9%" filterUnits="objectBoundingBox" id="filter-8">
+            <feOffset dx="0" dy="3" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.523968963   0 0 0 0 0.523968963   0 0 0 0 0.523968963  0 0 0 0.115800498 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="clinup" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="EMC-mobile" transform="translate(0.000000, -4178.000000)">
+            <g id="illustration" transform="translate(-7.000000, 4183.000000)">
+                <g id="Group-7" transform="translate(44.880004, 16.269001)" stroke-width="2.2440002">
+                    <path d="M284.261872,199.50047 C276.720044,201.304406 268.734094,201.168826 260.304023,199.093732 C187.374017,181.14173 217.107019,30.793717 140.250013,4.98771473 C89.012008,-12.2162868 44.506004,15.0857156 6.7320006,86.8937221" id="Path-6" stroke="url(#linearGradient-1)"></path>
+                    <path d="M361.845032,62.7707199 C342.771031,179.83273 308.924028,232.379735 260.304023,220.411734 C187.374017,202.459732 217.107019,52.1117189 140.250013,26.3057166 C89.012008,9.1017151 44.693004,27.0741453 7.29300065,80.2230072" id="Path-6-Copy" stroke="#7ED321" opacity="0.100000001" filter="url(#filter-2)"></path>
+                    <circle id="Oval" stroke="#68BD31" fill="#FFFFFF" cx="7.29300065" cy="85.2720076" r="7.29300065"></circle>
+                </g>
+                <g id="Group-10" transform="translate(112.761010, 0.000000)">
+                    <g id="Rectangle">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-3"></use>
+                    </g>
+                    <g id="Group-3" transform="translate(75.174007, 14.025001) scale(1, -1) rotate(90.000000) translate(-75.174007, -14.025001) translate(70.125006, 11.220001)" stroke="#68BD34" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.68300015">
+                        <polyline id="Path-3-Copy" points="7.29300065 0 10.0980009 2.80500025 7.29300065 5.6100005"></polyline>
+                        <path d="M10.0980009,2.80500025 L0,2.80500025" id="Path-4"></path>
+                    </g>
+                    <text id="12,538" font-family="AvenirNext-DemiBold, Avenir Next" font-size="15.7080014" font-weight="500" line-spacing="15.7080014" fill="#434343">
+                        <tspan x="12.3420011" y="22.7320006">12,538</tspan>
+                    </text>
+                    <text id="Цена-в-рост" font-family="AvenirNext-Regular, Avenir Next" font-size="8.9760008" font-weight="normal" line-spacing="8.9760008" fill="#434343">
+                        <tspan x="20.1960018" y="35.3670024">Цена в рост</tspan>
+                    </text>
+                </g>
+                <g id="Group-10-Copy-2" transform="translate(0.000000, 116.688010)">
+                    <g id="Rectangle">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-5"></use>
+                    </g>
+                    <g id="Group" transform="translate(24.123002, 7.854001)" fill="#434343" font-family="AvenirNext-Bold, Avenir Next" font-size="15.7080014" font-weight="bold" line-spacing="15.7080014">
+                        <text id="+131.00-$">
+                            <tspan x="0" y="16">+131.00 $</tspan>
+                        </text>
+                    </g>
+                    <text id="Прибыль" font-family="AvenirNext-Regular, Avenir Next" font-size="8.9760008" font-weight="normal" line-spacing="8.9760008" fill="#434343">
+                        <tspan x="44.880004" y="36.4890025">Прибыль</tspan>
+                    </text>
+                </g>
+                <g id="Group-10-Copy" transform="translate(226.083020, 161.007014)">
+                    <g id="Rectangle">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-8)" xlink:href="#path-7"></use>
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-7"></use>
+                    </g>
+                    <g id="Group-4" transform="translate(16.269001, 6.732001)">
+                        <g id="Group-3" transform="translate(55.539005, 7.293001) rotate(90.000000) translate(-55.539005, -7.293001) translate(50.490005, 4.488000)" stroke="#F75117" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.68300015">
+                            <polyline id="Path-3-Copy" points="7.29300065 0 10.0980009 2.80500025 7.29300065 5.6100005"></polyline>
+                            <path d="M10.0980009,2.80500025 L0,2.80500025" id="Path-4"></path>
+                        </g>
+                        <text id="9,538" font-family="AvenirNext-DemiBold, Avenir Next" font-size="15.7080014" font-weight="500" line-spacing="15.7080014" fill="#434343">
+                            <tspan x="0" y="16">9,538</tspan>
+                        </text>
+                    </g>
+                    <text id="Цена-на-спад" font-family="AvenirNext-Regular, Avenir Next" font-size="8.9760008" font-weight="normal" line-spacing="8.9760008" fill="#434343">
+                        <tspan x="17.3910016" y="35.3670024">Цена на спад</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

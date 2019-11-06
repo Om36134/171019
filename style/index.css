@@ -15,7 +15,7 @@ html, body {
     padding: 197px 0;
 }
 .container {
-    width: 100%;
+    width: 90%;
     margin: 0 auto;
     padding: 0;
 }
@@ -174,7 +174,7 @@ section {
     -webkit-border-radius: 8px;
     -moz-border-radius: 8px;
     border-radius: 8px;
-    padding: 8px 50px;
+    padding: 20px 58px;
     text-decoration: none;
     text-transform: uppercase;
     color: #ffffff;
@@ -192,7 +192,7 @@ section {
 
 .work-btn {
     text-align: center;
-    margin-top: 3rem;
+    margin-top: 8rem;
 }
 
 .contacts {
@@ -341,7 +341,7 @@ section {
 }
 
 .img1 {
-    background: url('https://picsum.photos/400/300?image=529') 0 0 no-repeat;
+    background: url('../img/mscsyheader-banner.png') 0 0 no-repeat;
 }
 
 .img2 {
@@ -410,13 +410,19 @@ section {
     text-align: center;
     margin: 0 auto;
     padding-bottom: 3rem;
-    margin-top: -2rem;
+    margin-top: 8rem;
     text-transform: uppercase;
     font-size: 60px;
 }
 
 .first {
     color: #ffffff;
+}
+
+.works__txt2, .works__p, .about__txt {
+    font-size: 26px;
+    line-height: 1.5;
+    margin-top: 5rem;
 }
 
 @media only screen and (max-width: 849.98px) {
@@ -459,9 +465,10 @@ section {
     .works__txt2,
     .works__p,
     .about__txt{
-        padding: 2rem 5rem;
+        padding: 1rem 5rem;
         line-height: 2;
         font-size: 26px;
+        margin-top: 0rem;
     }
 
     .nav-toggle-p {
@@ -477,9 +484,9 @@ section {
         font-size: 60px;
     }
 
-    /*.about__h1, .work__txt {*/
-        /*font-size: 60px;*/
-    /*}*/
+    .works__txt2, .works__p, .about__txt {
+        margin-top: 1rem;
+    }
 
     .btn {
         padding: 16px 60px;
@@ -491,6 +498,10 @@ section {
 
     nav {
         margin-left: -5rem;
+    }
+
+    .container {
+        width: 100%;
     }
 
 }
@@ -548,12 +559,20 @@ section {
     .works__p {
         padding: 10px 90px;
         line-height: 1.5;
+        margin-top: 1rem;
     }
 
     .contacts {
         padding-top: 25rem;
     }
 
+    .container {
+        width: 100%;
+    }
+
+    .about__h1, .work__txt{
+        margin-top: 1rem;
+    }
 }
 
 @media only screen and (max-width: 575.98px) {
@@ -603,6 +622,7 @@ section {
         font-size: 15px;
         color: #ffffff;
         letter-spacing: 2px;
+        margin-top: 1rem;
     }
 
     .about__h1, .work__txt {
@@ -614,12 +634,14 @@ section {
         line-height: 2;
         font-size: 15px;
         color: #ffffff;
+        margin-top: 1rem;
     }
 
     .works__txt2 {
         padding: 10px 15px;
         line-height: 1.5;
         text-align: center;
+        margin-top: 1rem;
     }
 
     .work-btn {
@@ -644,9 +666,21 @@ section {
     }
 
     .first {
-        padding-top: 17rem;
+        padding-top: 12rem;
         padding-bottom: 7rem;
         color: #ffffff;
+    }
+
+    .works {
+        padding: 7rem 0px;
+    }
+
+    .contacts {
+        padding-top: 13rem;
+    }
+
+    .contacts .container > p {
+        font-size: 21px;
     }
 
 }
